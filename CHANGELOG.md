@@ -2,6 +2,56 @@
 
 # Changelog
 
+## [Version 1.58.0](https://github.com/lobehub/lobe-chat/compare/v1.57.1...v1.58.0)
+
+<sup>Released on **2025-02-16**</sup>
+
+#### ✨ Features
+
+- **misc**: Add Azure AI as new Provider.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Add Azure AI as new Provider, closes [#6214](https://github.com/lobehub/lobe-chat/issues/6214) ([30e010f](https://github.com/lobehub/lobe-chat/commit/30e010f))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.57.1](https://github.com/lobehub/lobe-chat/compare/v1.57.0...v1.57.1)
+
+<sup>Released on **2025-02-16**</sup>
+
+#### 💄 Styles
+
+- **misc**: Fix mobile agent settings not show correctly.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Fix mobile agent settings not show correctly, closes [#6203](https://github.com/lobehub/lobe-chat/issues/6203) ([0285d95](https://github.com/lobehub/lobe-chat/commit/0285d95))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 1.57.0](https://github.com/lobehub/lobe-chat/compare/v1.56.5...v1.57.0)
 
 <sup>Released on **2025-02-16**</sup>
